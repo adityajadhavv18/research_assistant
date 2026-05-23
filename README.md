@@ -209,10 +209,4 @@ You are on a free-tier OpenAI key. Add `time.sleep(1)` between LLM calls or upgr
 
 ---
 
-## License
-
-MIT — free to use, modify, and share.
-
----
-
 Built by Aditya as a hands-on introduction to agentic AI with LangGraph.
